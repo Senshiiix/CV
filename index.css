@@ -11,7 +11,8 @@
 }
 
 h1 {
-    padding: 50px;
+    padding: 25px;
+    margin-bottom: 25px;
     margin: 0;
     background-image: linear-gradient(to left, #E8DFD1, white); 
 }
@@ -44,7 +45,7 @@ html, body {
     background-color: white;
     width: 70vw;
     position: absolute;
-    top: 60%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -121,4 +122,5 @@ html, body {
 #fin {
     text-align: center;
     font-style: italic;
+    margin: 20px 10px;
 }
